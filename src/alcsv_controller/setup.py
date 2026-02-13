@@ -25,7 +25,7 @@ setup(
    entry_points={
     'console_scripts': [
         'heading_controller = alcsv_controller.heading_controller_node:main',
-        'robot_sim = alcsv_controller.robot_sim_node:main',
+        'simulated_robot = alcsv_controller.simulated_robot_node:main',
     ],
 },
 )
