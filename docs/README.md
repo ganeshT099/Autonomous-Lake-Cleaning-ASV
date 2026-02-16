@@ -15,7 +15,7 @@ Comparative Analysis of Deep Learning Models for Real-Time Floating Debris Detec
 - Detectron2 (Faster R-CNN)
 
 ### Deployment Target
-- NVIDIA Jetson Nano 8GB
+- NVIDIA Jetson orin Nano 8GB
 
 ### Key Results
 - 69% mAP@50 (Fine-tuned YOLO11n)
