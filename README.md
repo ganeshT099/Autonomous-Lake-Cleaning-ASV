@@ -39,6 +39,19 @@ Executes waypoint tracking and heading control.
 Monitors geofence violations and emergency conditions.
 
 ---
+---
+
+## Research Contributions
+
+This project includes a comparative study of object detection models for floating debris detection on edge hardware.
+
+See:
+docs/papers/debris_detection_analysis.docx
+
+Key Findings:
+- Fine-tuned YOLO11n selected for deployment
+- Real-time capable on Jetson Nano
+- Optimized for edge AI ASV systems
 
 ## 📦 ROS 2 Workspace Structure
 
